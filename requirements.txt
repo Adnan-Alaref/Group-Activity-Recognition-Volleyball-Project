@@ -1,0 +1,5 @@
+mlxtend
+torchinfo
+tensorboard
+torchmetrics
+albumentations
